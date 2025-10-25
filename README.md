@@ -16,7 +16,7 @@
 ## 🧩 Description
 
 **zan-topup-v1** is a campus assignment project developed to create a top-up service for games, mobile credit, and other digital products. 
-This project is designed with a **modern full-stack web app** concept, combining **Next.js + Express + PostgreSQL (Neon)** for a fast, lightweight, and scalable experience.
+This project is designed with a **modern full-stack web app** concept, combining **Next.js + Express + PostgreSQL** for a fast, lightweight, and scalable experience.
 
 > ✨ *Still under development — stay tuned for new feature updates!*
 
