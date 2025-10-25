@@ -1,6 +1,9 @@
 # ⚡ zan-topup-v1 🚀
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
+
+---
+
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -75,6 +78,6 @@ Instructions on how to install dependencies and run the project locally.
 
 This project was developed solely by:
 
-* **([Muhammad Razzan Rianda Putra])** - ([2405101011])
+* **Muhammad Razzan Rianda Putra** - 2405101011
 
 This is submitted as part of a campus assignment.
