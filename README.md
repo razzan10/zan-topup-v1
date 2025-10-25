@@ -1,34 +1,44 @@
-# <h1>zan-topup-v1 🚀</h1>
+# ⚡ zan-topup-v1 🚀
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon%20Database-00E599?style=for-the-badge&logo=neondatabase&logoColor=white)
 
-## Description
+---
 
-This is a **campus assignment project** for [Nama Matkul/Tujuan, misal: Web Programming Course]. This project, `zan-topup-v1`, aims to create a service for game top-ups, phone credits, etc.
+## 🧩 Description
 
-*(This project is currently under development).*
+**zan-topup-v1** is a campus assignment project developed to create a top-up service for games, mobile credit, and other digital products. 
+This project is designed with a **modern full-stack web app** concept, combining **Next.js + Express + PostgreSQL (Neon)** for a fast, lightweight, and scalable experience.
 
-## Features
+> ✨ *Still under development — stay tuned for new feature updates!*
 
-Currently, the following features are planned or in progress:
+---
 
-* [ ] Feature A (User authentication)
-* [ ] Feature B (Payment gateway integration)
-* [ ] Feature C (Transaction history page)
-* ...
+## 🛠️ Features (Planned & In Progress)
 
-## Tech Stack
+- [x] Project initialization (Next.js + Express + PostgreSQL setup)
+- [ ] Authentication system (Login/Register)
+- [ ] Game management dashboard (Admin)
+- [ ] Payment gateway integration
+- [ ] Transaction history
+- [ ] Upload & manage product images (Vercel Blob)
 
-This project is built using:
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-</p>
+## 💻 Tech Stack
 
-*(Kamu bisa cari dan buat badge lain di [shields.io](https://shields.io/) untuk teknologi yang kamu pakai!)*
+| Layer | Tech |
+|-------|------|
+| **Frontend** | Next.js, TailwindCSS, React Icons |
+| **Backend** | Node.js, Express |
+| **Database** | PostgreSQL |
+
+---
 
 ## Installation & Setup
 
@@ -55,12 +65,16 @@ Instructions on how to install dependencies and run the project locally.
 
 ## Usage
 
-(Optional) Provide a brief example of how to use your application once it's installed. You can also add screenshots or GIFs here later.
+**Once the server is running, you can:**
+- [ ] Access the main top-up web page.
+- [ ] (comming soon)Log in as an admin to manage your game and product lists.
+- [ ] (Coming soon) Make transactions and view purchase history.
+- [ ] API documentation and endpoint usage examples will be added later.
 
 ## Author
 
 This project was developed solely by:
 
-* **Muhammad Razzan Rianda Putra** -- 2405101011
+* **([Muhammad Razzan Rianda Putra])** - ([2405101011])
 
 This is submitted as part of a campus assignment.
