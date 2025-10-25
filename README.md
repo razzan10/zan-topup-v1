@@ -61,6 +61,6 @@ Instructions on how to install dependencies and run the project locally.
 
 This project was developed solely by:
 
-* **Muhammad Razzan Rianda Putra**
+* **Muhammad Razzan Rianda Putra** -- 2405101011
 
 This is submitted as part of a campus assignment.
