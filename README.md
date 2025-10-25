@@ -12,9 +12,9 @@ This is a **campus assignment project** for [Nama Matkul/Tujuan, misal: Web Prog
 
 Currently, the following features are planned or in progress:
 
-* [ ] Feature A (e.g., User authentication)
-* [ ] Feature B (e.g., Payment gateway integration)
-* [ ] Feature C (e.g., Transaction history page)
+* [ ] Feature A (User authentication)
+* [ ] Feature B (Payment gateway integration)
+* [ ] Feature C (Transaction history page)
 * ...
 
 ## Tech Stack
@@ -61,6 +61,6 @@ Instructions on how to install dependencies and run the project locally.
 
 This project was developed solely by:
 
-* **[Nama Kamu]** - ([NIM Kamu])
+* **Muhammad Razzan Rianda Putra**
 
 This is submitted as part of a campus assignment.
